@@ -1,0 +1,10 @@
+lower:
+  - 20
+  - 90
+  - 0
+upper:
+  - 45
+  - 255
+  - 255
+centroid_method: color
+distance_method: euclidean

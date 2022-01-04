@@ -1,0 +1,20 @@
+*.pyc
+*.h5
+
+
+# Environments
+.vscode/
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+docs/
+.idea/
+__pycache__/
+
+# OS-specific files
+*.lnk
+._*
